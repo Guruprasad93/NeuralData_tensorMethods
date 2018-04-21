@@ -28,3 +28,4 @@ for sessionNum = 1:14
     end
 end
 
+save('spikeData_1msbins_rawSpikes.mat','struct_spike','-v7.3');

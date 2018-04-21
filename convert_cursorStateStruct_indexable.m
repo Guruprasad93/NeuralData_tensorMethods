@@ -28,3 +28,4 @@ for sessionNum = 1:14
     end
 end
 
+save('stateData_1msbins_cursorState_organized.mat','struct_state','-v7.3');
